@@ -1,3 +1,4 @@
+name: bla
 ## Week of September 10th
 
 ### Topic:
