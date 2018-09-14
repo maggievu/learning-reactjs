@@ -1,6 +1,6 @@
 ## Week of September 10th
 
-### Topic:
+### Topic chosen:
 React JS - A JavaScript library for beautiful UI
 
 ### Resources:
