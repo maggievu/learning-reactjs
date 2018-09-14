@@ -7,5 +7,4 @@ React JS - A JavaScript library for beautiful UI
 - Lynda
 - Codeacademy
 
-[https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4]
-(https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
+- [Learn React JS in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
