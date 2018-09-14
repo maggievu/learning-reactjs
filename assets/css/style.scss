@@ -5,12 +5,16 @@
 
 @import "https://fonts.googleapis.com/css?family=Do+Hyeon|Open+Sans:400,400i,700";
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400o,700,700i|Roboto:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400o,700,700i|Oswald:400,700');
 
 body {
     font-family: "Open Sans", arial, verdana, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: Roboto, arial, verdana, sans-serif;
+    font-family: Oswald, arial, verdana, sans-serif;
+}
+
+p {
+    // font-size: 16px;
 }
