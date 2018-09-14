@@ -3,7 +3,7 @@
 </div>
 
 
-<div>
+<div markdown="1">
 
 ## Week of September 10th
 
