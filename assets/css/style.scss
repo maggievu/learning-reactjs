@@ -28,7 +28,7 @@ h1 {
 section {
     font-size: 16px;
 
-    a:first-child {
+    &>a:first-child {
         font-size: 14px;
     }
 
