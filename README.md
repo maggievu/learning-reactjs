@@ -1,28 +1,20 @@
-<div markdown="1">
+## Focus Area of Interest:
+Front-end Web Development
 
-</div>
-
-
-<div markdown="1">
-
-## Week of September 10th
-
-### Topic chosen:
+## Topic
 React JS - A JavaScript library for beautiful UI
 
-### Main resources:
-- [React JS Tutorial - reactjs.org](https://reactjs.org/tutorial/tutorial.html)
-- [React JS Documentation - reactjs.org](https://reactjs.org/docs/hello-world.html)
-- [Learning React JS - Lynda](https://www.lynda.com/React-js-tutorials/Learning-React-js/645064-2.html?org=langara.ca)
-- [Learn React JS - Codecademy](https://www.codecademy.com/learn/react-101)
-- [Learn React JS in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
-
-### Additional resources:
-- [React JS Essential Training - Lynda](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?org=langara.ca)
-- [Building Web Interface React JS - Lynda](https://www.lynda.com/React-js-tutorials/Building-Web-Interface-React-js/495271-2.html?org=langara.ca)
-- [Beginner guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [Roadmap to React](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
-- [Fundamental React JS concepts](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
-- Youtube videos (to explore if time allows...)
-
-</div>
+## Contents
+1. [Week of September 10th](week-sep10)
+2. Week of September 17th [](week-sep17)
+3. Week of September 24th [](week-sep24)
+4. Week of October 1st [](week-oct01)
+5. Week of October 8th [](week-oct08)
+6. Week of October 15th [](week-oct15)
+7. Week of October 22nd [](week-oct22)
+8. Week of October 29th [](week-oct29)
+9. Week of November 5th [](week-nov05)
+10. Week of November 12th [](week-nov12)
+11. Week of November 19th [](week-nov19)
+12. Week of November 26th [](week-nov26)
+13. Week of December 3rd [](week-dec03)
