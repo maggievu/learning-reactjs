@@ -17,7 +17,6 @@ React JS - A JavaScript library for beautiful UI
 - [Learn React JS - Codecademy](https://www.codecademy.com/learn/react-101)
 - [Learn React JS in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 - Youtube
-- [bla](README-default.md)
 
 ### Additional resources:
 - [React JS Essential Training - Lynda](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?org=langara.ca)
