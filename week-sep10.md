@@ -1,4 +1,4 @@
-_[<< Back to main page](README)_
+_[<< Back to main page](https://maggievu.github.io/wmdd4992-blog/)_
 
 ## Week of September 10th
 
