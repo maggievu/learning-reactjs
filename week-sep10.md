@@ -1,3 +1,5 @@
+[<< Back to main page](indexx)
+
 ## Week of September 10th
 
 ### Topic chosen:
@@ -9,7 +11,6 @@ React JS - A JavaScript library for beautiful UI
 - [Learning React JS - Lynda](https://www.lynda.com/React-js-tutorials/Learning-React-js/645064-2.html?org=langara.ca)
 - [Learn React JS - Codecademy](https://www.codecademy.com/learn/react-101)
 - [Learn React JS in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
-- Youtube
 
 ### Additional resources:
 - [React JS Essential Training - Lynda](https://www.lynda.com/React-js-tutorials/React-js-Essential-Training/496905-2.html?org=langara.ca)
