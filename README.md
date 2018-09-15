@@ -1,4 +1,4 @@
-## Focus Area of Interest:
+## Focus Area of Interest
 Front-end Web Development
 
 ## Topic
