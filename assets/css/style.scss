@@ -31,7 +31,10 @@ section {
 
 h2 {
     font-size: 1.3em;
-    text-transform: uppercase;
+
+    &[id*="week"] {
+        text-transform: uppercase;
+    }
 }
 
 h3 {
