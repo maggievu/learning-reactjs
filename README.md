@@ -5,7 +5,7 @@ Front-end Web Development
 React JS - A JavaScript library for beautiful UI
 
 ## Contents
-1. [Week of September 10th](posts/week-sep10)
+1. [List of resources](posts/week-sep10)
 2. Week of September 17th [](posts/week-sep17)
 3. Week of September 24th [](posts/week-sep24)
 4. Week of October 1st [](posts/week-oct01)
