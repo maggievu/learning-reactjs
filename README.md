@@ -2,7 +2,7 @@
 Front-end Web Development
 
 ## Topic
-React JS - A JavaScript library for beautiful UI
+React JS - An open source JavaScript library for beautiful UI
 
 ## Contents
 1. [List of resources](posts/week-sep10)

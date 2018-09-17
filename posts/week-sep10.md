@@ -1,4 +1,4 @@
-_[<< Back to main page](https://maggievu.github.io/wmdd4992-blog/)_
+_[<< Back to main page](https://maggievu.github.io/learning-reactjs/)_
 
 ## Week of September 10th
 
