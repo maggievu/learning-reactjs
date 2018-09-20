@@ -19,4 +19,5 @@ React JS - A JavaScript library for beautiful UI
 - [Fullstack React in 30 days](https://www.fullstackreact.com/30-days-of-react/)
 - [Intro to React - IBM](https://www.ibm.com/developerworks/library/wa-react-intro/index.html)
 - [Component Lifecycle - Codevoila](https://www.codevoila.com/post/57/reactjs-tutorial-react-component-lifecycle)
+- [React Intro - Slideshare](https://www.slideshare.net/EdurekaIN/react-components-lifecycle-react-tutorial-for-beginners-reactjs-training-edureka)
 - Youtube videos (to explore if time allows...)
