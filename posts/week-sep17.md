@@ -17,13 +17,13 @@ Basically, React JS uses HTML syntax and at the same time, incorporates JavaScri
 Elements are the smallest building blocks of React and they usually represent DOM tags in an HTML document.  
 Elements are what components are “made of”, these 2 concepts are not exactly the same thing, but let’s not worry too much about them right now.
 
-![React Components](../assets/images/components.jpg "React Components")
+![React Components](../assets/images/components.jpg "React Components - Edureka by Slideshare")
 _<sub>Source: [Edureka - Slideshare](https://www.slideshare.net/EdurekaIN/react-components-lifecycle-react-tutorial-for-beginners-reactjs-training-edureka)</sub>_
 
 Components are like functions in JavaScript logic. They take in “props” (which means parameters, arguments) and render outputs to be displayed on screen.  
 Components can also be defined using the class concept in JavaScript. The reason for this is because components can change and to keep track of updates we use the concept of state.
 
-![States and Lifecycle](../assets/images/lifecycle.png "States and Lifecycle")
+![States and Lifecycle](../assets/images/lifecycle.png "States and Lifecycle - Codevoila")
 _<sub>Source: [React JS Tutorial - Codevoila](https://www.codevoila.com/post/57/reactjs-tutorial-react-component-lifecycle)</sub>_
 
 A React component can be any of the following three statuses: mounted, update and unmounted.  
@@ -36,7 +36,7 @@ As you can see, mounting is the initial state when the component is first insert
 I have mentioned a lot about the DOM (or the HTML document), let’s make this clear. React JS does not operate directly on the browser’s DOM.  
 It has its own virtual DOM to operate on. This is different from the browser’s DOM.
 
-![React Virtual DOM](../assets/images/operations.png "React Virtual DOM")
+![React Virtual DOM](../assets/images/operations.png "React Virtual DOM - IBM")
 _<sub>Source: [React Intro - IBM](https://www.ibm.com/developerworks/library/wa-react-intro/index.html)</sub>_
 
 What happens is that React components are first rendered into a virtual DOM built and run entirely in memory. The virtual DOM performs an optimized diff (which means a comparison-like) against the browser's DOM and then will intelligently decides the minimal updates to the browser’s DOM.
