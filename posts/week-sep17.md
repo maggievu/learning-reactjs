@@ -3,7 +3,9 @@ _[<< Back to main page](https://maggievu.github.io/learning-reactjs/)_
 ## Framework Overview
 
 ### What is React JS?
-The reason I chose to learn React JS is because it's a flexible and efficient JavaScript library for building beautiful user interfaces. It's also powerful, lightweight and fast rendering to increase higher web performance.
+The reason I chose to learn React JS is because it's a flexible open-source JavaScript library for building beautiful user interfaces. It's also powerful, efficient, lightweight and fast rendering to increase higher web performance.
+
+<hr>
 
 ### Components
 Let's take a closer look at React JS.
@@ -27,8 +29,11 @@ _<sub>Source: [React JS Tutorial - Codevoila](https://www.codevoila.com/post/57/
 A React component can be any of the following three statuses: mounted, update and unmounted.  
 As you can see, mounting is the initial state when the component is first inserted into the DOM. Updating is when the component’s props have been modified and unmounting is when the component has been removed completely from the DOM.
 
+<hr>
+
 ### React Virtual DOM
-I have mentioned a lot about the DOM, let’s make this clear. React JS does not operate directly on the browser’s DOM.  
+
+I have mentioned a lot about the DOM (or the HTML document), let’s make this clear. React JS does not operate directly on the browser’s DOM.  
 It has its own virtual DOM to operate on. This is different from the browser’s DOM.
 
 ![React Virtual DOM](../assets/images/operations.png "React Virtual DOM")
@@ -40,7 +45,8 @@ What happens is that React components are first rendered into a virtual DOM buil
 
 React also allows developers to write easy structures using its special syntax called JSX. This is a syntax extension that lets us declare elements in a manner that closely resembles HTML. Simply put, developers can use JSX to write JavaScript that looks like HTML.
 
-```
+```javascript
+// This is React written with JSX syntax
 class HelloWorld extends React.Component {
     render() {
         return (
@@ -50,7 +56,8 @@ class HelloWorld extends React.Component {
 }
 ```
 
-```
+```javascript
+// This is React written without JSX syntax
 class HelloWorld extends React.Component {
     render() {
         return (
@@ -64,6 +71,15 @@ class HelloWorld extends React.Component {
 }
 ```
 
-```
+```html
+<!-- Both methods give the same output  -->
 <h1 class="header">Hello World</h1>
 ```
+
+<hr>
+
+### Why React again?
+
+React JS is just a library, not its own framework. That's why it will save you lots of time and effort trying to understand and figure out the patterns and architecture of the MVC (Model-View-Controller) behind. You can just simply focus on improving the front-end development and providing great user interfaces.
+
+If you want to become an app and mobile developer, React JS will be your best friend. Since it also comes with React Native, you can build native apps on Android and iOs platforms, using the same methodology, architecture and thinking process. And if you want to dig deeper, there is also the Flux architecture which marries really well with React. But that is for another rainy day!

@@ -1,27 +1,13 @@
 _[<< Back to main page](https://maggievu.github.io/learning-reactjs/)_
 
-[/1] Prototype / Spike Idea
-Give me an idea of the spike / prototype that you're going to build to try your framework. It should involve a minimal working demonstration of the tech.
+## Prototype / Spike Idea
 
-----------------------
+In about less than two months and a half, our group will be presenting our web application about data visualization.
 
-For the REST example, I would probably build an "addition" server. Send a request with two numbers as parameters. The response includes the sum in a JSON object.
+We would like to create a captivating interactive data visualization tool, that displays growing environmental issues, like C02 emissions and melting ice caps, and helps educate and involve users on these topics.
 
-Because it's a network application, I would define the protocol:
+We’ll start with global climate change in our MVP. We’ll be focusing on greenhouse gases (such as CO2 emissions), in particular its statistics, causes, effects on the environment and the potential solutions/measures to help resolve/slow down these issues.
 
-REQUEST:
-GET http://apps.example.com/addserv?x=2&y=3
+As a prototype for demonstrating my learning of React JS, I'll build the user interface for the landing page of our web app. It will be minimalistic, simple and focusing on user experience rather than "colorful" designs and displays.
 
-RESPONSE:
-{
-  "x": 2,
-  "y": 3,
-  "sum": 5
-}
-
-I'd then add a POST request/response for sending an arbitrary length array of numbers.
------------------------------------
-
-That would be the proposal.
-
-Once it's built and running, I'd investigate adding more features. HTTPS? With pinning? Authentication? Curried state? Multiple services? A CRUD example? Hosting it somewhere live?
+Wish me luck!
