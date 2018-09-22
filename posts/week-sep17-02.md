@@ -10,4 +10,6 @@ We’ll start with global climate change in our MVP. We’ll be focusing on gree
 
 As a prototype for demonstrating my learning of React JS, I'll build the user interface for the landing page of our web app. It will be minimalistic, simple and focusing on user experience rather than "colorful" designs and displays.
 
+Once I receive the first wireframes of our web app from our talented designer, I'll start breaking it down to sections, such as header, main, footer. Then if these sections are big, aka contain many children, then I'll keep breaking them down into small sub-sections, or components to easily manipulate and maintain.
+
 Wish me luck!
