@@ -1,4 +1,32 @@
-Framework Overview
+_[<< Back to main page](https://maggievu.github.io/learning-reactjs/)_
+
+## Framework Overview
+
+### What is React JS?
+The reason I chose to learn React JS is because it's a flexible and efficient JavaScript library for building beautiful user interfaces. It's also powerful, lightweight and fast rendering to increase higher web performance.
+
+### Components
+Let's take a closer look at React JS.
+In simpler words, React JS takes up a webpage and splits into elements (same as HTML elements) and allows developers to write or build these elements using JavaScript. These elements and components are reusable to be called as necessary throughout the webpage. This is an important feature which makes React so powerful.
+Basically, React JS uses HTML syntax and at the same time, incorporates JavaScript logic (such as functions, classes, events) to display the elements onto the webpage.
+![Components](assets/images/components.jpg)
+Elements are the smallest building blocks of React and they usually represent DOM tags in an HTML document.
+Elements are what components are “made of”, these 2 concepts are not exactly the same thing, but let’s not worry too much about them right now.
+Components are like functions in JavaScript logic. They take in “props” (which means parameters, arguments) and render outputs to be displayed on screen.
+Components can also be defined using the class concept in JavaScript. The reason for this is because components can change and to keep track of updates we use the concept of state.
+
+![States](assets/images/lifecycle.png)
+A React component can be any of the following three statuses: mounted, update and unmounted. As you can see, mounting is the initial state when the component is first inserted into the DOM. Updating is when the component’s props have been modified and unmounting is when the component has been removed completely from the DOM.
+
+### React Virtual DOM
+I have mentioned a lot about the DOM, let’s make this clear. React JS does not operate directly on the browser’s DOM.
+It has its own virtual DOM to operate on. This is different from the browser’s DOM.
+![React Virtual DOM](assets/images/operations.png)
+What happens is that React components are first rendered into a virtual DOM built and run entirely in memory. The virtual DOM performs an optimized diff (which means a comparison-like) against the browser's DOM and then will intelligently decides the minimal updates to the browser’s DOM.
+
+### JSX (JavaScript eXtension)
+React also allows developers to write easy structures using its special syntax called JSX. This is a syntax extension that lets us declare elements in a manner that closely resembles HTML. Simply put, developers can use JSX to write JavaScript that looks like HTML.
+
 
 High-level overview of your framework, it's components, and their interactions.
 
