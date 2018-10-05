@@ -44,7 +44,7 @@ class Note extends Component {
 
     renderDisplay() {
         return (
-            <div classname="note">
+            <div className="note">
                 <p>{this.props.children}</p>
                 <span>
                     <button onClick={this.edit} id="edit">Edit</button>
