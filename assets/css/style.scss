@@ -10,6 +10,10 @@ body {
     color: #141414;
 }
 
+.wrapper {
+    width: 960px;
+}
+
 header {
     width: 300px;
 
@@ -32,6 +36,7 @@ h1 {
 
 section {
     font-size: 16px;
+    width: 600px;
 
     &>p:first-child a {
         font-size: 13px;
@@ -39,10 +44,6 @@ section {
 
     h2 {
         font-size: 1.3em;
-
-        &[id*="week"] {
-            text-transform: uppercase;
-        }
     }
 
     h3 {
@@ -67,3 +68,5 @@ footer {
     width: 300px;
     bottom: 10px;
 }
+
+/* MEDIA ======================================== */
