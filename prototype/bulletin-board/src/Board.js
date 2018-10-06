@@ -8,15 +8,15 @@ class Board extends Component {
             notes: [
                 {
                     id: 0,
-                    note: "bleh1"
+                    note: "#1: How do state and event connect?"
                 },
                 {
                     id: 1,
-                    note: "bleh2"
+                    note: "#2: create-react-app from npm: good or bad?"
                 },
                 {
                     id: 2,
-                    note: "bleh3"
+                    note: "#3: treat styling as components or traditional css?"
                 }
             ]
         }
