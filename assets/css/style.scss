@@ -54,11 +54,11 @@ section {
         color: #393939;
     }
 
-    &>p:last-of-type {
+    &>p:last-child {
         float: right;
     }
 
-    &>p:nth-last-of-type(2) {
+    &>p:nth-last-child(2) {
         float: left;
     }
 }
