@@ -53,6 +53,14 @@ section {
     h2, h3, h4, h5, h6 {
         color: #393939;
     }
+
+    p:last-of-type {
+        float: right;
+    }
+
+    p:nth-last-of-type(2) {
+        float: left;
+    }
 }
 
 a {
