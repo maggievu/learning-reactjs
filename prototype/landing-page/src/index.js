@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import Page from './Page';
+
+import './index.scss';
+import Home from './containers/Home';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(<Page />, document.getElementById('root'));
+ReactDOM.render(<Home />, document.getElementById('root'));
 
 
 
