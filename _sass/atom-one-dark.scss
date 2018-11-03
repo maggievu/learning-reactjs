@@ -18,15 +18,13 @@ hue-6-2: #e6c07b
 
 */
 
-@import url('https://fonts.googleapis.com/css?family=Fira+Mono');
-
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   color: #abb2bf;
   background: #282c34;
-  font-family: "Fira Mono", sans-serif;
+  font-size: 14px;
 }
 
 .hljs-comment,
