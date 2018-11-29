@@ -17,5 +17,5 @@ React JS - An open source JavaScript library for beautiful UI
 10. [60% Progress Report - Retrospective](posts/week-11-05)
 11. [80% Progress Report](posts/week-11-12)
 12. [90% Progress Report](posts/week-11-19)
-13. 95% Progress Report[](posts/week-11-26)
+13. [95% Progress Report](posts/week-11-26)
 14. Final check-in - Retrospective[](posts/week-12-03)
