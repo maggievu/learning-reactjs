@@ -11,3 +11,40 @@
 // • render is a lifecycle method!!!: belongs to two categories: mounting lifecycle methods, and updating lifecycle methods.
 // • componentDidMount: When a component renders for the first time, componentDidMount gets called right after the HTML from render has finished loading. If your React app uses AJAX to fetch initial data from an API, then componentDidMount is the place to make that AJAX call. More generally, componentDidMount is a good place to connect a React app to external applications, such as web APIs or JavaScript frameworks. componentDidMount is also the place to set timers using setTimeout or setInterval. (gets called once after component renders)
 // When a component mounts, it automatically calls these three methods, in order.
+
+class Example extends React.Component {
+  // componentWillMount() {
+  //   alert('component is about to mount!');
+  // }
+
+  constructor(props) {
+   super(props);
+
+   this.state = { text: 'bla' };
+ }
+
+ // setTimeout(() => {
+     componentDidMount() {
+   this.setState({ text: 'Hello world' });
+    }
+// }, 1000);
+
+  render() {
+    return <h1>{this.state.text}</h1>;
+  }
+  // componentDidMount() {
+  //     alert('component mounted!');
+  // }
+}
+
+ReactDOM.render(
+  <Example />,
+  document.getElementById('root')
+);
+
+setTimeout(() => {
+  ReactDOM.render(
+    <Example />,
+    document.getElementById('root')
+  );
+}, 1000);

@@ -1,0 +1,34 @@
+{
+
+    "caption": "Global Surface Temperature",
+    "subcaption": "Click & drag on the plot area to zoom & then scroll",
+    "showToolTip": true,
+    "seriesNameInToolTip": false,
+    "staticRadius": true,
+
+    "anchorAlpha": 50,
+    "anchorBgAlpha": 0,
+    "formatNumber": false,
+
+    "yaxisname": "Temperature Anomaly (C)",
+    "yAxisMinValue": -0.5,
+
+    "xaxisname": "Year",
+    "xAxisLabelMode": "MIXED",
+    "xFormatNumberScale": false,
+    "xAxisMinValue": 1880,
+    "xAxisMaxValue": 2020,
+    "forceXAxisValueDecimals": false,
+
+    "labelDisplay": "rotate",
+    "slantLabels": true,
+    "labelStep": 1,
+
+    "showVDivLineValues": false,
+    "adjustVDiv": false,
+
+    "animation": true,
+    "animationDuration": 1,
+
+    "theme": "candy"
+}
